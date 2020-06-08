@@ -2,3 +2,7 @@ target/**
 .idea/**
 .project
 .classpath
+.idea
+.settings
+.vscode
+

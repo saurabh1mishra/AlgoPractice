@@ -1,12 +1,17 @@
 package DS.LinkedList;
 
-public class Node {
+import java.util.Optional;
 
-    int value;
-    Node next;
+public class Node<T> {
 
-    Node(int value) {
+    T value;
+    Node<T> next;
+
+    Node(T value) {
         this.value = value;
+    }
 
+    public Optional<Node<T>> getNext() {
+        return Optional.ofNullable(next);
     }
 }

@@ -1,11 +1,11 @@
 package DS.LinkedList;
 
-public class LinkedList {
+public class LinkedList<T> {
 
-    private Node head;
+    private Node<T> head;
 
-    public void insert(int value) {
-        Node node = new Node(value);
+    public void insert(T value) {
+        Node<T> node = new Node<>(value);
         if (head == null) {
             head = node;
         } else {
@@ -26,23 +26,23 @@ public class LinkedList {
         System.out.println(n.value);
     }
 
-    public void insertAtFirst(int value) {
-        Node node = new Node(value);
+    public void insertAtFirst(T value) {
+        Node<T> node = new Node<>(value);
         node.next = head;
         head = node;
     }
 
     public void removeFirst() {
-        Node n = head;
+        Node<T> n = head;
         head = head.next;
         n = null;
     }
 
-    public void insterAt(int index, int value) {
+    public void insterAt(int index, T value) {
         if (size() < index) {
             throw new IllegalStateException("array size is less the index");
         }
-        Node node = new Node(value);
+        Node<T> node = new Node<>(value);
         if (index == 0) {
             insertAtFirst(value);
         } else {
@@ -63,7 +63,7 @@ public class LinkedList {
             removeFirst();
         } else {
 
-            Node n = head;
+            Node<T> n = head;
             for (int i = 0; i < index - 1; i++) {
                 n = n.next;
             }

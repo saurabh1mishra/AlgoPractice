@@ -1,14 +1,25 @@
 package JDK;
 
-public class TestClass implements Itest1,ITest2 {
+public class TestClass implements Itest1
+      //  ,ITest2
+{
+    TestClass(){
+        Itest1.super.test();
+   //     ITest2.super.test();
+    }
 
     public static void main(String[] args) {
         TestClass test = new TestClass();
         test.test();
+
     }
 
-    @Override
+
+
+  /*  @Override
     public void test() {
-        System.out.println("test");
-    }
+        Itest1.super.test();
+       // ITest2.super.test();
+        //System.out.println("test");
+    }*/
 }

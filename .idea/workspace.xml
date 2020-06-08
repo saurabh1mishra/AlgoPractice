@@ -1,8 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38f72e67-3fc8-434b-85a7-3760d350fa6d" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="38f72e67-3fc8-434b-85a7-3760d350fa6d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/DS/Stack/StackUsingLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HasHmap/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DS/LinkedList/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DS/LinkedList/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DS/LinkedList/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DS/LinkedList/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DS/LinkedList/TestLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DS/LinkedList/TestLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JDK/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JDK/TestClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/TestString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/XYZ.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/recursion/APMissingNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algo/recursion/APMissingNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/recursion/InvalidParenthesis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algo/recursion/InvalidParenthesis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/recursion/StringReversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algo/recursion/StringReversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/recursion/ZigZagTraversalString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algo/recursion/ZigZagTraversalString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JDK/TestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JDK/TestClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/TestString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/XYZ.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/recursion/APMissingNum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/recursion/InvalidParenthesis.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/recursion/StringReversal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/recursion/ZigZagTraversalString.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +35,9 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="221" />
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
@@ -22,44 +50,40 @@
       </list>
     </option>
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1QPI2rqFbG3Wax1elXPaKyWw7pc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547816305737" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.TestThreadLocal">
-    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion.Palindrome" />
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.App" />
       <module name="mavenDemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="recursion.*" />
+          <option name="PATTERN" value="demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Stringreverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion.Stringreverse" />
+    <configuration name="Employee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HasHmap.Employee" />
       <module name="mavenDemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="recursion.*" />
+          <option name="PATTERN" value="HasHmap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestAL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JDK.TestAL" />
+    <configuration name="PermuteString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algo.PermuteString" />
       <module name="mavenDemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JDK.*" />
+          <option name="PATTERN" value="Algo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,33 +117,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JDK.TestClass" />
+    <configuration name="TestRegex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestRegex" />
       <module name="mavenDemo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JDK.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestThreadLocal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestThreadLocal" />
+    <configuration name="TestString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.TestString" />
       <module name="mavenDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Algo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestThreadLocal" />
-        <item itemvalue="Application.Palindrome" />
-        <item itemvalue="Application.Stringreverse" />
-        <item itemvalue="Application.TestClass" />
-        <item itemvalue="Application.TestAL" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.TestString" />
+        <item itemvalue="Application.PermuteString" />
+        <item itemvalue="Application.Employee" />
+        <item itemvalue="Application.TestRegex" />
       </list>
     </recent_temporary>
   </component>
@@ -174,27 +198,168 @@
       <workItem from="1569320759760" duration="1043000" />
       <workItem from="1574838947332" duration="4253000" />
       <workItem from="1575014177239" duration="594000" />
+      <workItem from="1576314504916" duration="8650000" />
+      <workItem from="1578384534426" duration="1455000" />
+      <workItem from="1578556198529" duration="113000" />
+      <workItem from="1578556392406" duration="4451000" />
+      <workItem from="1579173434403" duration="304000" />
+      <workItem from="1579762223138" duration="223000" />
+      <workItem from="1579762540062" duration="2159000" />
+      <workItem from="1580302839830" duration="441000" />
+      <workItem from="1580385768575" duration="60000" />
+      <workItem from="1580385851153" duration="871000" />
+      <workItem from="1580734079183" duration="456000" />
+      <workItem from="1580820263616" duration="540000" />
+      <workItem from="1581577936093" duration="72000" />
+      <workItem from="1582290447877" duration="460000" />
+      <workItem from="1582535557724" duration="326000" />
+      <workItem from="1582539141655" duration="8000" />
+      <workItem from="1582548209313" duration="3916000" />
+      <workItem from="1582801336303" duration="2378000" />
+      <workItem from="1583153996735" duration="571000" />
+      <workItem from="1583217875573" duration="790000" />
+      <workItem from="1584083970854" duration="556000" />
+      <workItem from="1584100330195" duration="480000" />
+      <workItem from="1584342941081" duration="587000" />
+      <workItem from="1584442525526" duration="37000" />
+      <workItem from="1584794241468" duration="263000" />
+      <workItem from="1584900698736" duration="825000" />
+      <workItem from="1585045498413" duration="509000" />
+      <workItem from="1585112552677" duration="268000" />
+      <workItem from="1585146142437" duration="132000" />
+      <workItem from="1585148848835" duration="934000" />
+      <workItem from="1585989728572" duration="4299000" />
+      <workItem from="1586614155713" duration="342000" />
+      <workItem from="1586772174817" duration="518000" />
+      <workItem from="1586859053156" duration="1748000" />
+      <workItem from="1587037565486" duration="843000" />
+      <workItem from="1587156972202" duration="8492000" />
+      <workItem from="1587371337087" duration="1252000" />
+      <workItem from="1588087072015" duration="2356000" />
+      <workItem from="1588568212386" duration="531000" />
+      <workItem from="1588598427740" duration="271000" />
+      <workItem from="1588747253161" duration="37000" />
+      <workItem from="1588926845481" duration="1743000" />
+      <workItem from="1590939120172" duration="1143000" />
+      <workItem from="1591452643243" duration="8000" />
+      <workItem from="1591595378698" duration="81000" />
+      <workItem from="1591627692585" duration="1403000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="515" y="198" key="#SampleStackOverflow" timestamp="1587371653214">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="515" y="198" key="#SampleStackOverflow/0.0.1680.1050@0.0.1680.1050" timestamp="1587371653214" />
+    <state x="653" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1583037567083">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="653" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1583037567083" />
+    <state x="673" y="422" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1588180256261">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="673" y="422" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1680.1050/-129.-1080.1920.1080@0.0.1680.1050" timestamp="1588180256261" />
+    <state x="470" y="456" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1591650347101">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="470" y="456" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1680.1050/-129.-1080.1920.1080@0.0.1680.1050" timestamp="1591650347101" />
+    <state x="578" y="280" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587159470825">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="578" y="280" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1587159470825" />
+    <state x="706" y="242" width="694" height="565" key="#xdebugger.evaluate" timestamp="1587169261379">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="706" y="242" width="694" height="565" key="#xdebugger.evaluate/0.0.1680.1050@0.0.1680.1050" timestamp="1587169261379" />
+    <state width="1638" height="233" key="GridCell.Tab.0.bottom" timestamp="1591650442758">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="265" key="GridCell.Tab.0.bottom/-1172.-1080.1920.1080/748.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1584083921735" />
+    <state width="1878" height="241" key="GridCell.Tab.0.bottom/0.0.1680.1050/-129.-1080.1920.1080@-129.-1080.1920.1080" timestamp="1589472040597" />
+    <state width="1638" height="233" key="GridCell.Tab.0.bottom/0.0.1680.1050/-129.-1080.1920.1080@0.0.1680.1050" timestamp="1591650442758" />
+    <state width="1638" height="280" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1591628040857" />
+    <state width="1638" height="208" key="GridCell.Tab.0.bottom/60.23.1620.1027@60.23.1620.1027" timestamp="1587036903428" />
+    <state width="1638" height="233" key="GridCell.Tab.0.center" timestamp="1591650442756">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="265" key="GridCell.Tab.0.center/-1172.-1080.1920.1080/748.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1584083921731" />
+    <state width="1878" height="241" key="GridCell.Tab.0.center/0.0.1680.1050/-129.-1080.1920.1080@-129.-1080.1920.1080" timestamp="1589472040595" />
+    <state width="1638" height="233" key="GridCell.Tab.0.center/0.0.1680.1050/-129.-1080.1920.1080@0.0.1680.1050" timestamp="1591650442756" />
+    <state width="1638" height="280" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1591628040853" />
+    <state width="1638" height="208" key="GridCell.Tab.0.center/60.23.1620.1027@60.23.1620.1027" timestamp="1587036903375" />
+    <state width="1638" height="233" key="GridCell.Tab.0.left" timestamp="1591650442754">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="265" key="GridCell.Tab.0.left/-1172.-1080.1920.1080/748.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1584083921729" />
+    <state width="1878" height="241" key="GridCell.Tab.0.left/0.0.1680.1050/-129.-1080.1920.1080@-129.-1080.1920.1080" timestamp="1589472040593" />
+    <state width="1638" height="233" key="GridCell.Tab.0.left/0.0.1680.1050/-129.-1080.1920.1080@0.0.1680.1050" timestamp="1591650442754" />
+    <state width="1638" height="280" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1591628040852" />
+    <state width="1638" height="208" key="GridCell.Tab.0.left/60.23.1620.1027@60.23.1620.1027" timestamp="1587036903359" />
+    <state width="1638" height="233" key="GridCell.Tab.0.right" timestamp="1591650442757">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="265" key="GridCell.Tab.0.right/-1172.-1080.1920.1080/748.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1584083921733" />
+    <state width="1878" height="241" key="GridCell.Tab.0.right/0.0.1680.1050/-129.-1080.1920.1080@-129.-1080.1920.1080" timestamp="1589472040596" />
+    <state width="1638" height="233" key="GridCell.Tab.0.right/0.0.1680.1050/-129.-1080.1920.1080@0.0.1680.1050" timestamp="1591650442757" />
+    <state width="1638" height="280" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1591628040856" />
+    <state width="1638" height="208" key="GridCell.Tab.0.right/60.23.1620.1027@60.23.1620.1027" timestamp="1587036903392" />
+    <state width="1638" height="136" key="GridCell.Tab.1.bottom" timestamp="1591650246796">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1878" height="290" key="GridCell.Tab.1.bottom/0.0.1680.1050/-129.-1080.1920.1080@-129.-1080.1920.1080" timestamp="1589472040583" />
+    <state width="1638" height="136" key="GridCell.Tab.1.bottom/0.0.1680.1050/-129.-1080.1920.1080@0.0.1680.1050" timestamp="1591650246796" />
+    <state width="1638" height="280" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1591628041138" />
+    <state width="1638" height="208" key="GridCell.Tab.1.bottom/60.23.1620.1027@60.23.1620.1027" timestamp="1587036903511" />
+    <state width="1638" height="136" key="GridCell.Tab.1.center" timestamp="1591650246793">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1878" height="290" key="GridCell.Tab.1.center/0.0.1680.1050/-129.-1080.1920.1080@-129.-1080.1920.1080" timestamp="1589472040580" />
+    <state width="1638" height="136" key="GridCell.Tab.1.center/0.0.1680.1050/-129.-1080.1920.1080@0.0.1680.1050" timestamp="1591650246793" />
+    <state width="1638" height="280" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1591628041137" />
+    <state width="1638" height="208" key="GridCell.Tab.1.center/60.23.1620.1027@60.23.1620.1027" timestamp="1587036903490" />
+    <state width="1638" height="136" key="GridCell.Tab.1.left" timestamp="1591650246792">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1878" height="290" key="GridCell.Tab.1.left/0.0.1680.1050/-129.-1080.1920.1080@-129.-1080.1920.1080" timestamp="1589472040578" />
+    <state width="1638" height="136" key="GridCell.Tab.1.left/0.0.1680.1050/-129.-1080.1920.1080@0.0.1680.1050" timestamp="1591650246792" />
+    <state width="1638" height="280" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1591628041136" />
+    <state width="1638" height="208" key="GridCell.Tab.1.left/60.23.1620.1027@60.23.1620.1027" timestamp="1587036903462" />
+    <state width="1638" height="136" key="GridCell.Tab.1.right" timestamp="1591650246795">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1878" height="290" key="GridCell.Tab.1.right/0.0.1680.1050/-129.-1080.1920.1080@-129.-1080.1920.1080" timestamp="1589472040581" />
+    <state width="1638" height="136" key="GridCell.Tab.1.right/0.0.1680.1050/-129.-1080.1920.1080@0.0.1680.1050" timestamp="1591650246795" />
+    <state width="1638" height="280" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1591628041138" />
+    <state width="1638" height="208" key="GridCell.Tab.1.right/60.23.1620.1027@60.23.1620.1027" timestamp="1587036903495" />
+    <state x="341" y="164" key="SettingsEditor" timestamp="1585114076125">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1585114076125" />
+    <state x="549" y="-651" key="com.intellij.ide.util.TipDialog" timestamp="1588926859270">
+      <screen x="-129" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="549" y="-651" key="com.intellij.ide.util.TipDialog/0.0.1680.1050/-129.-1080.1920.1080@-129.-1080.1920.1080" timestamp="1588926859270" />
+    <state x="594" y="403" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1586614164674" />
+    <state x="626" y="417" key="com.intellij.ide.util.TipDialog/50.23.1630.1027@50.23.1630.1027" timestamp="1586859516296" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1583217936166">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1583217936166" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/demo/App.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/demo/recursion/ZigZagTraversalString.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Algo/recursion/ZigZagTraversalString.java</url>
           <line>44</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/demo/recursion/ZigZagTraversalString.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Algo/recursion/ZigZagTraversalString.java</url>
           <line>48</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
@@ -209,22 +374,22 @@
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/demo/recursion/APMissingNum.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Algo/recursion/APMissingNum.java</url>
           <line>9</line>
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/demo/recursion/StringReversal.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Algo/recursion/StringReversal.java</url>
           <line>14</line>
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/demo/recursion/StringReversal.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Algo/recursion/StringReversal.java</url>
           <line>13</line>
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/demo/recursion/StringReversal.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Algo/recursion/StringReversal.java</url>
           <line>10</line>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
@@ -238,12 +403,167 @@
           <line>24</line>
           <option name="timeStamp" value="27" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DS/Stack/StackUsingArray.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algo/ProductOfArrayExceptSelf.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algo/ProductOfArrayExceptSelf.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algo/ProductOfArrayExceptSelf.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/TestRegex.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DS/Stack/StackUsingLinkedList.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DS/Stack/StackUsingLinkedList.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algo/recursion/ProductOfArrayExceptSelf.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algo/recursion/ProductOfArrayExceptSelf.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algo/recursion/ProductOfArrayExceptSelf.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algo/recursion/InvalidParaentesiss.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algo/recursion/InvalidParaentesiss.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algo/recursion/InvalidParaentesiss.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algo/recursion/InvalidParaentesiss.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/JVM/StackDemo.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/JVM/StackDemo.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/JVM/StackDemo.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/JVM/StackDemo.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/JVM/StackDemo.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/JVM/StackDemo.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/JVM/StackDemo.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/JVM/StackDemo.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/JVM/StackDemo.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/JVM/StackDemo.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algo/leetcodeSingleElementinaSortedArray.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algo/leetcodeSingleElementinaSortedArray.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algo/leetcodeSingleElementinaSortedArray.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algo/PermuteString.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algo/PermuteString.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algo/PermuteString.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/mavenDemo$SampleStackOverflow.ic" NAME="SampleStackOverflow Coverage Results" MODIFIED="1587371511119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>JVM.*</FILTER>
+    </SUITE>
   </component>
   <component name="masterDetails">
     <states>
