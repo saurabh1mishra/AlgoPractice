@@ -1,4 +1,4 @@
-package Algo.recursion;
+package StringProblems;
 
 public class StringReversal {
 

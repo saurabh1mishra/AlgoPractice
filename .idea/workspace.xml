@@ -2,31 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38f72e67-3fc8-434b-85a7-3760d350fa6d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DS/Stack/StackUsingLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HasHmap/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DS/LinkedList/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DS/LinkedList/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DS/LinkedList/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DS/LinkedList/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DS/LinkedList/TestLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DS/LinkedList/TestLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JDK/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JDK/TestClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/demo/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/demo/TestString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/demo/XYZ.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/demo/recursion/APMissingNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algo/recursion/APMissingNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/demo/recursion/InvalidParenthesis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algo/recursion/InvalidParenthesis.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/demo/recursion/StringReversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algo/recursion/StringReversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/demo/recursion/ZigZagTraversalString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algo/recursion/ZigZagTraversalString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JDK/TestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JDK/TestClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/demo/TestString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/demo/XYZ.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/demo/recursion/APMissingNum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/demo/recursion/InvalidParenthesis.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/demo/recursion/StringReversal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/demo/recursion/ZigZagTraversalString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algo/recursion/StringReversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StringProblems/StringReversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SeleniumTest/PrintPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PatternProblem/PrintPattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/SpiralMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algo/SpiralMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/recursion/FIb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algo/recursion/FIb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/recursion/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algo/recursion/Factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/recursion/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algo/recursion/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/recursion/StringReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algo/recursion/StringReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/App.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,20 +56,20 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.App">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo.App" />
+  <component name="RunManager" selected="Application.StringCompress">
+    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringProblems.ReverseString" />
       <module name="mavenDemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo.*" />
+          <option name="PATTERN" value="StringProblems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Employee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HasHmap.Employee" />
+    <configuration name="StringCompress" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringProblems.StringCompress" />
       <module name="mavenDemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HasHmap.*" />
+          <option name="PATTERN" value="StringProblems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,28 +90,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PermuteString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Algo.PermuteString" />
-      <module name="mavenDemo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Algo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestRegex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestRegex" />
-      <module name="mavenDemo" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo.TestString" />
+    <configuration name="TestNG_Priority_Annotations" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="mavenDemo" />
       <extension name="coverage">
         <pattern>
@@ -133,17 +98,58 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="demo" />
+      <option name="MAIN_CLASS_NAME" value="demo.TestNG_Priority_Annotations" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNG_Priority_Annotations.a_method" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="mavenDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Algo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="demo" />
+      <option name="MAIN_CLASS_NAME" value="demo.TestNG_Priority_Annotations" />
+      <option name="METHOD_NAME" value="a_method" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNG_Priority_Annotations.b_method" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="mavenDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Algo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="demo" />
+      <option name="MAIN_CLASS_NAME" value="demo.TestNG_Priority_Annotations" />
+      <option name="METHOD_NAME" value="b_method" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.App" />
-        <item itemvalue="Application.TestString" />
-        <item itemvalue="Application.PermuteString" />
-        <item itemvalue="Application.Employee" />
-        <item itemvalue="Application.TestRegex" />
+        <item itemvalue="Application.StringCompress" />
+        <item itemvalue="Application.ReverseString" />
+        <item itemvalue="TestNG.TestNG_Priority_Annotations" />
+        <item itemvalue="TestNG.TestNG_Priority_Annotations.b_method" />
+        <item itemvalue="TestNG.TestNG_Priority_Annotations.a_method" />
       </list>
     </recent_temporary>
   </component>
@@ -243,7 +249,13 @@
       <workItem from="1590939120172" duration="1143000" />
       <workItem from="1591452643243" duration="8000" />
       <workItem from="1591595378698" duration="81000" />
-      <workItem from="1591627692585" duration="1403000" />
+      <workItem from="1591627692585" duration="2279000" />
+      <workItem from="1592318556490" duration="631000" />
+      <workItem from="1592495324926" duration="834000" />
+      <workItem from="1592675416090" duration="49000" />
+      <workItem from="1594376702752" duration="95000" />
+      <workItem from="1594376913135" duration="1831000" />
+      <workItem from="1594623639115" duration="1077000" />
     </task>
     <servers />
   </component>
@@ -255,10 +267,6 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="515" y="198" key="#SampleStackOverflow/0.0.1680.1050@0.0.1680.1050" timestamp="1587371653214" />
-    <state x="653" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1583037567083">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="653" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1583037567083" />
     <state x="673" y="422" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1588180256261">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -267,88 +275,96 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="470" y="456" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1680.1050/-129.-1080.1920.1080@0.0.1680.1050" timestamp="1591650347101" />
+    <state x="625" y="3" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1594823167680">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="625" y="3" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1594823167680" />
     <state x="578" y="280" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587159470825">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="578" y="280" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1587159470825" />
-    <state x="706" y="242" width="694" height="565" key="#xdebugger.evaluate" timestamp="1587169261379">
+    <state x="706" y="242" width="694" height="565" key="#xdebugger.evaluate" timestamp="1592495464868">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="706" y="242" width="694" height="565" key="#xdebugger.evaluate/0.0.1680.1050@0.0.1680.1050" timestamp="1587169261379" />
-    <state width="1638" height="233" key="GridCell.Tab.0.bottom" timestamp="1591650442758">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state x="706" y="242" width="694" height="565" key="#xdebugger.evaluate/0.0.1680.1050@0.0.1680.1050" timestamp="1592495464868" />
+    <state width="1638" height="336" key="GridCell.Tab.0.bottom" timestamp="1594622163369">
+      <screen x="51" y="23" width="1629" height="1027" />
     </state>
-    <state width="1638" height="265" key="GridCell.Tab.0.bottom/-1172.-1080.1920.1080/748.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1584083921735" />
     <state width="1878" height="241" key="GridCell.Tab.0.bottom/0.0.1680.1050/-129.-1080.1920.1080@-129.-1080.1920.1080" timestamp="1589472040597" />
-    <state width="1638" height="233" key="GridCell.Tab.0.bottom/0.0.1680.1050/-129.-1080.1920.1080@0.0.1680.1050" timestamp="1591650442758" />
-    <state width="1638" height="280" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1591628040857" />
+    <state width="1638" height="136" key="GridCell.Tab.0.bottom/0.0.1680.1050/-129.-1080.1920.1080@0.0.1680.1050" timestamp="1591653243604" />
+    <state width="1638" height="336" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1594377204207" />
+    <state width="1638" height="336" key="GridCell.Tab.0.bottom/51.23.1629.1027@51.23.1629.1027" timestamp="1594622163369" />
     <state width="1638" height="208" key="GridCell.Tab.0.bottom/60.23.1620.1027@60.23.1620.1027" timestamp="1587036903428" />
-    <state width="1638" height="233" key="GridCell.Tab.0.center" timestamp="1591650442756">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1638" height="336" key="GridCell.Tab.0.center" timestamp="1594622163368">
+      <screen x="51" y="23" width="1629" height="1027" />
     </state>
-    <state width="1638" height="265" key="GridCell.Tab.0.center/-1172.-1080.1920.1080/748.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1584083921731" />
     <state width="1878" height="241" key="GridCell.Tab.0.center/0.0.1680.1050/-129.-1080.1920.1080@-129.-1080.1920.1080" timestamp="1589472040595" />
-    <state width="1638" height="233" key="GridCell.Tab.0.center/0.0.1680.1050/-129.-1080.1920.1080@0.0.1680.1050" timestamp="1591650442756" />
-    <state width="1638" height="280" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1591628040853" />
+    <state width="1638" height="136" key="GridCell.Tab.0.center/0.0.1680.1050/-129.-1080.1920.1080@0.0.1680.1050" timestamp="1591653243602" />
+    <state width="1638" height="336" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1594377204206" />
+    <state width="1638" height="336" key="GridCell.Tab.0.center/51.23.1629.1027@51.23.1629.1027" timestamp="1594622163368" />
     <state width="1638" height="208" key="GridCell.Tab.0.center/60.23.1620.1027@60.23.1620.1027" timestamp="1587036903375" />
-    <state width="1638" height="233" key="GridCell.Tab.0.left" timestamp="1591650442754">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1638" height="336" key="GridCell.Tab.0.left" timestamp="1594622163367">
+      <screen x="51" y="23" width="1629" height="1027" />
     </state>
-    <state width="1638" height="265" key="GridCell.Tab.0.left/-1172.-1080.1920.1080/748.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1584083921729" />
     <state width="1878" height="241" key="GridCell.Tab.0.left/0.0.1680.1050/-129.-1080.1920.1080@-129.-1080.1920.1080" timestamp="1589472040593" />
-    <state width="1638" height="233" key="GridCell.Tab.0.left/0.0.1680.1050/-129.-1080.1920.1080@0.0.1680.1050" timestamp="1591650442754" />
-    <state width="1638" height="280" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1591628040852" />
+    <state width="1638" height="136" key="GridCell.Tab.0.left/0.0.1680.1050/-129.-1080.1920.1080@0.0.1680.1050" timestamp="1591653243601" />
+    <state width="1638" height="336" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1594377204205" />
+    <state width="1638" height="336" key="GridCell.Tab.0.left/51.23.1629.1027@51.23.1629.1027" timestamp="1594622163367" />
     <state width="1638" height="208" key="GridCell.Tab.0.left/60.23.1620.1027@60.23.1620.1027" timestamp="1587036903359" />
-    <state width="1638" height="233" key="GridCell.Tab.0.right" timestamp="1591650442757">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1638" height="336" key="GridCell.Tab.0.right" timestamp="1594622163368">
+      <screen x="51" y="23" width="1629" height="1027" />
     </state>
-    <state width="1638" height="265" key="GridCell.Tab.0.right/-1172.-1080.1920.1080/748.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1584083921733" />
     <state width="1878" height="241" key="GridCell.Tab.0.right/0.0.1680.1050/-129.-1080.1920.1080@-129.-1080.1920.1080" timestamp="1589472040596" />
-    <state width="1638" height="233" key="GridCell.Tab.0.right/0.0.1680.1050/-129.-1080.1920.1080@0.0.1680.1050" timestamp="1591650442757" />
-    <state width="1638" height="280" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1591628040856" />
+    <state width="1638" height="136" key="GridCell.Tab.0.right/0.0.1680.1050/-129.-1080.1920.1080@0.0.1680.1050" timestamp="1591653243603" />
+    <state width="1638" height="336" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1594377204207" />
+    <state width="1638" height="336" key="GridCell.Tab.0.right/51.23.1629.1027@51.23.1629.1027" timestamp="1594622163368" />
     <state width="1638" height="208" key="GridCell.Tab.0.right/60.23.1620.1027@60.23.1620.1027" timestamp="1587036903392" />
-    <state width="1638" height="136" key="GridCell.Tab.1.bottom" timestamp="1591650246796">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1638" height="136" key="GridCell.Tab.1.bottom" timestamp="1592595534958">
+      <screen x="51" y="23" width="1629" height="1027" />
     </state>
     <state width="1878" height="290" key="GridCell.Tab.1.bottom/0.0.1680.1050/-129.-1080.1920.1080@-129.-1080.1920.1080" timestamp="1589472040583" />
-    <state width="1638" height="136" key="GridCell.Tab.1.bottom/0.0.1680.1050/-129.-1080.1920.1080@0.0.1680.1050" timestamp="1591650246796" />
-    <state width="1638" height="280" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1591628041138" />
+    <state width="1638" height="136" key="GridCell.Tab.1.bottom/0.0.1680.1050/-129.-1080.1920.1080@0.0.1680.1050" timestamp="1591653243607" />
+    <state width="1638" height="136" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1592495481939" />
+    <state width="1638" height="136" key="GridCell.Tab.1.bottom/51.23.1629.1027@51.23.1629.1027" timestamp="1592595534958" />
     <state width="1638" height="208" key="GridCell.Tab.1.bottom/60.23.1620.1027@60.23.1620.1027" timestamp="1587036903511" />
-    <state width="1638" height="136" key="GridCell.Tab.1.center" timestamp="1591650246793">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1638" height="136" key="GridCell.Tab.1.center" timestamp="1592595534957">
+      <screen x="51" y="23" width="1629" height="1027" />
     </state>
     <state width="1878" height="290" key="GridCell.Tab.1.center/0.0.1680.1050/-129.-1080.1920.1080@-129.-1080.1920.1080" timestamp="1589472040580" />
-    <state width="1638" height="136" key="GridCell.Tab.1.center/0.0.1680.1050/-129.-1080.1920.1080@0.0.1680.1050" timestamp="1591650246793" />
-    <state width="1638" height="280" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1591628041137" />
+    <state width="1638" height="136" key="GridCell.Tab.1.center/0.0.1680.1050/-129.-1080.1920.1080@0.0.1680.1050" timestamp="1591653243606" />
+    <state width="1638" height="136" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1592495481938" />
+    <state width="1638" height="136" key="GridCell.Tab.1.center/51.23.1629.1027@51.23.1629.1027" timestamp="1592595534957" />
     <state width="1638" height="208" key="GridCell.Tab.1.center/60.23.1620.1027@60.23.1620.1027" timestamp="1587036903490" />
-    <state width="1638" height="136" key="GridCell.Tab.1.left" timestamp="1591650246792">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1638" height="136" key="GridCell.Tab.1.left" timestamp="1592595534955">
+      <screen x="51" y="23" width="1629" height="1027" />
     </state>
     <state width="1878" height="290" key="GridCell.Tab.1.left/0.0.1680.1050/-129.-1080.1920.1080@-129.-1080.1920.1080" timestamp="1589472040578" />
-    <state width="1638" height="136" key="GridCell.Tab.1.left/0.0.1680.1050/-129.-1080.1920.1080@0.0.1680.1050" timestamp="1591650246792" />
-    <state width="1638" height="280" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1591628041136" />
+    <state width="1638" height="136" key="GridCell.Tab.1.left/0.0.1680.1050/-129.-1080.1920.1080@0.0.1680.1050" timestamp="1591653243605" />
+    <state width="1638" height="136" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1592495481936" />
+    <state width="1638" height="136" key="GridCell.Tab.1.left/51.23.1629.1027@51.23.1629.1027" timestamp="1592595534955" />
     <state width="1638" height="208" key="GridCell.Tab.1.left/60.23.1620.1027@60.23.1620.1027" timestamp="1587036903462" />
-    <state width="1638" height="136" key="GridCell.Tab.1.right" timestamp="1591650246795">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1638" height="136" key="GridCell.Tab.1.right" timestamp="1592595534958">
+      <screen x="51" y="23" width="1629" height="1027" />
     </state>
     <state width="1878" height="290" key="GridCell.Tab.1.right/0.0.1680.1050/-129.-1080.1920.1080@-129.-1080.1920.1080" timestamp="1589472040581" />
-    <state width="1638" height="136" key="GridCell.Tab.1.right/0.0.1680.1050/-129.-1080.1920.1080@0.0.1680.1050" timestamp="1591650246795" />
-    <state width="1638" height="280" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1591628041138" />
+    <state width="1638" height="136" key="GridCell.Tab.1.right/0.0.1680.1050/-129.-1080.1920.1080@0.0.1680.1050" timestamp="1591653243606" />
+    <state width="1638" height="136" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1592495481939" />
+    <state width="1638" height="136" key="GridCell.Tab.1.right/51.23.1629.1027@51.23.1629.1027" timestamp="1592595534958" />
     <state width="1638" height="208" key="GridCell.Tab.1.right/60.23.1620.1027@60.23.1620.1027" timestamp="1587036903495" />
-    <state x="341" y="164" key="SettingsEditor" timestamp="1585114076125">
+    <state x="341" y="164" key="SettingsEditor" timestamp="1592675444221">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1585114076125" />
+    <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1592675444221" />
     <state x="549" y="-651" key="com.intellij.ide.util.TipDialog" timestamp="1588926859270">
       <screen x="-129" y="-1080" width="1920" height="1080" />
     </state>
     <state x="549" y="-651" key="com.intellij.ide.util.TipDialog/0.0.1680.1050/-129.-1080.1920.1080@-129.-1080.1920.1080" timestamp="1588926859270" />
     <state x="594" y="403" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1586614164674" />
     <state x="626" y="417" key="com.intellij.ide.util.TipDialog/50.23.1630.1027@50.23.1630.1027" timestamp="1586859516296" />
-    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1583217936166">
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1594631319094">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1583217936166" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1594631319094" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -364,12 +380,12 @@
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/demo/SpiralMatrix.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Algo/SpiralMatrix.java</url>
           <line>19</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/demo/SpiralMatrix.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Algo/SpiralMatrix.java</url>
           <line>14</line>
           <option name="timeStamp" value="19" />
         </line-breakpoint>
@@ -379,17 +395,17 @@
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Algo/recursion/StringReversal.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/StringProblems/StringReversal.java</url>
           <line>14</line>
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Algo/recursion/StringReversal.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/StringProblems/StringReversal.java</url>
           <line>13</line>
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Algo/recursion/StringReversal.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/StringProblems/StringReversal.java</url>
           <line>10</line>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
@@ -552,6 +568,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/Algo/PermuteString.java</url>
           <line>5</line>
           <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/StringProblems/ReverseString.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="69" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

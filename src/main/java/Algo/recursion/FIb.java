@@ -1,4 +1,4 @@
-package recursion;
+package Algo.recursion;
 
 public class FIb {
        public static int  fib(int num){

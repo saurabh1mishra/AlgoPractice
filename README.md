@@ -1,2 +1,2 @@
-# mavenDemo
- my experimental things
+# Practice Repo
+

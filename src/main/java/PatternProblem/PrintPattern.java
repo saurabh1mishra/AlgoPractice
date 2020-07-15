@@ -1,4 +1,4 @@
-package SeleniumTest;
+package PatternProblem;
 
 public class PrintPattern {
 

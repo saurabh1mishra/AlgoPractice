@@ -1,4 +1,4 @@
-package recursion;
+package Algo.recursion;
 
 class StringReverse {
     private void reverseStr(String str) {
