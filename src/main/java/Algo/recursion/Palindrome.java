@@ -2,7 +2,7 @@ package Algo.recursion;
 
 public class Palindrome {
     public static void main(String[] args) {
-        System.out.println(isPalindrome(""));
+        System.out.println(isPalindrome("tess5et"));
     }
 
     private static boolean isPalindrome(String str) {
