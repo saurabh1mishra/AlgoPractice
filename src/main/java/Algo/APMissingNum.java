@@ -1,4 +1,4 @@
-package Algo.recursion;
+package Algo;
 
 public class APMissingNum {
 
