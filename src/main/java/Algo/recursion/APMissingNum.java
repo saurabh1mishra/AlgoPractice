@@ -2,9 +2,8 @@ package Algo.recursion;
 
 public class APMissingNum {
 
-
     public static void main(String[] args) {
-        int[] arr = {2, 6,14};
+        int[] arr = {2, 6, 14};
         int size = arr.length;
         int missingNum = 0;
         int diff = (arr[size - 1] - arr[0]) / (size);

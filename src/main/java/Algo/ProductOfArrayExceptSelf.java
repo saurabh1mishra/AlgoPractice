@@ -1,57 +1,29 @@
 package Algo;
 
+import java.util.Arrays;
+
 public class ProductOfArrayExceptSelf {
 
-    void ProductOfArrayExceptSelf(int arr[], int n) {
-
-        // Base case
-        if (n == 1) {
-            System.out.print("0");
-            return;
+    public static int[] productExceptSelf(int[] nums) {
+        int size = nums.length;
+        int[] left_product = new int[size];
+        int[] right_product = new int[size];
+        left_product[0] = 1;
+        right_product[size - 1] = 1;
+        for (int i = 0; i < size - 1; i++) {
+            left_product[i + 1] = nums[i] * left_product[i];
         }
-
-        int i, temp = 1;
-
-        /* Allocate memory for the product array */
-        int prod[] = new int[n];
-
-        /* Initialize the product array as 1 */
-        for (int j = 0; j < n; j++)
-            prod[j] = 1;
-
-		/* In this loop, temp variable contains product of
-		elements on left side excluding arr[i] */
-        for (i = 0; i < n; i++) {
-            prod[i] = temp;
-            temp *= arr[i];
+        for (int j = nums.length - 1; j > 0; j--) {
+            right_product[j - 1] = nums[j] * right_product[j];
         }
-
-        /* Initialize temp to 1 for product on right side */
-        temp = 1;
-
-		/* In this loop, temp variable contains product of
-		elements on right side excluding arr[i] */
-        for (i = n - 1; i >= 0; i--) {
-            prod[i] *= temp;
-            temp *= arr[i];
+        for (int i = 0; i < size; i++) {
+            nums[i] = left_product[i] * right_product[i];
         }
-
-        /* print the constructed prod array */
-        for (i = 0; i < n; i++)
-            System.out.print(prod[i] + " ");
-
-        return;
+        return nums;
     }
 
-    /* Driver program to test above functions */
     public static void main(String[] args) {
-        ProductOfArrayExceptSelf pa = new ProductOfArrayExceptSelf();
-        int arr[] = {10, 3, 5, 6, 2};
-        int n = arr.length;
-        System.out.println("The product array is : ");
-        pa.ProductOfArrayExceptSelf(arr, n);
+        int[] arr = {1, 2, 3, 4};
+        System.out.println(Arrays.toString(productExceptSelf(arr)));
     }
-
-
-// This code has been contributed by Mayank Jaiswal
 }

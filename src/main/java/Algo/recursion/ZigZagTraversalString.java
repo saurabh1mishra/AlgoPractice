@@ -2,6 +2,7 @@ package Algo.recursion;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Map;
 
 public class ZigZagTraversalString {
 
@@ -10,6 +11,7 @@ public class ZigZagTraversalString {
     }
 
     public static String convert(String s, int numRows) {
+
         if (numRows==1)
             return s;
         String res = "";

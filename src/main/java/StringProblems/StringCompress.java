@@ -18,9 +18,9 @@ public class StringCompress {
                 last = input.charAt(i);
             }
         }
-        if(count > 1){
-            output.append(""+count+last);
-        }else{
+        if (count > 1) {
+            output.append("" + count + last);
+        } else {
             output.append(last);
         }
         return output.toString();

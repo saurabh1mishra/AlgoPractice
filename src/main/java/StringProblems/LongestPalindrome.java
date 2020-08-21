@@ -21,7 +21,7 @@ public class LongestPalindrome {
 
     public static void main(String... args) {
         LongestPalindrome longestPalindrome = new LongestPalindrome();
-        String str[] = "ABCBAERRETTETET".split("");
+        String[] str = "ABCBAERRETTETET".split("");
         String subStr = "";
         List<String> plaindrome = new ArrayList<>();
         for (int i = 0; i < str.length; i++) {
