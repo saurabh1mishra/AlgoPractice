@@ -14,7 +14,7 @@ public class TestRegex {
                 if (swap) {
                     if (pointer < 0)
                         pointer = 0;
-                  //  s = s.replaceFirst(s.charAt(pointer), s.charAt(i));
+                    //  s = s.replaceFirst(s.charAt(pointer), s.charAt(i));
                 }
             } else {
                 swap = true;

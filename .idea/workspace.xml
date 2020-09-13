@@ -1,15 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="38f72e67-3fc8-434b-85a7-3760d350fa6d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/StringProblems/StringPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DS/Queue/PriortyQueueTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algo/MiddleOfLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algo/MiddleOfLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algo/SpiralMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algo/SpiralMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algo/recursion/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algo/recursion/Palindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/demo/SpiralMatrix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/recursion/Palindrome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/recursion/StringReverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algo/APMissingNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algo/APMissingNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algo/CommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algo/CommonPrefix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algo/ReverseAlgo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algo/ReverseAlgo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algo/recursion/InvalidParaentesiss.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algo/recursion/CheckValidString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HasHmap/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HasHmap/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TestRegex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TestRegex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JsonPathTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JsonPathTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +41,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
@@ -53,20 +65,20 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="org.infernus.idea.checkstyle.CheckStyleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Tsystem">
-    <configuration name="LongestPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringProblems.LongestPalindrome" />
+  <component name="RunManager">
+    <configuration name="GetMaxNumberInSlidingWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DS.Queue.GetMaxNumberInSlidingWindow" />
       <module name="mavenDemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StringProblems.*" />
+          <option name="PATTERN" value="DS.Queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpiralMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Algo.SpiralMatrix" />
+    <configuration name="HashTableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.HashTableTest" />
       <module name="mavenDemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Algo.*" />
+          <option name="PATTERN" value="DS.Queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestHSCPrivateStaticVar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo.TestHSCPrivateStaticVar" />
+    <configuration name="PriortyQueueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DS.Queue.PriortyQueueTest" />
       <module name="mavenDemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo.*" />
+          <option name="PATTERN" value="DS.Queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tsystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo.Tsystem" />
+    <configuration name="SortCharByFrequecy2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.SortCharByFrequecy2" />
       <module name="mavenDemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo.*" />
+          <option name="PATTERN" value="Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,29 +125,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ZigZagTraversalString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Algo.recursion.ZigZagTraversalString" />
+    <configuration name="TestJavaCollection5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.TestJavaCollection5" />
       <module name="mavenDemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Algo.recursion.*" />
+          <option name="PATTERN" value="DS.Queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Tsystem" />
-        <item itemvalue="Application.TestHSCPrivateStaticVar" />
-        <item itemvalue="Application.LongestPalindrome" />
-        <item itemvalue="Application.SpiralMatrix" />
-        <item itemvalue="Application.ZigZagTraversalString" />
+        <item itemvalue="Application.GetMaxNumberInSlidingWindow" />
+        <item itemvalue="Application.PriortyQueueTest" />
+        <item itemvalue="Application.HashTableTest" />
+        <item itemvalue="Application.TestJavaCollection5" />
+        <item itemvalue="Application.SortCharByFrequecy2" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -243,22 +267,29 @@
       <workItem from="1595226732311" duration="147000" />
       <workItem from="1595340442197" duration="4707000" />
       <workItem from="1595495404162" duration="2477000" />
-      <workItem from="1596177407564" duration="119000" />
+      <workItem from="1596177407564" duration="641000" />
+      <workItem from="1596184152395" duration="1699000" />
+      <workItem from="1596978527924" duration="2552000" />
+      <workItem from="1597239287116" duration="5613000" />
+      <workItem from="1597736293481" duration="206000" />
+      <workItem from="1598014195883" duration="7177000" />
+      <workItem from="1598277880394" duration="1402000" />
+      <workItem from="1598459248126" duration="1617000" />
+      <workItem from="1598614377749" duration="9125000" />
+      <workItem from="1599476982414" duration="2970000" />
+      <workItem from="1599733468671" duration="13000" />
+      <workItem from="1599743953087" duration="12185000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="653" y="233" key="#com.intellij.ide.util.MemberChooser" timestamp="1595511322620">
+    <state x="653" y="233" key="#com.intellij.ide.util.MemberChooser" timestamp="1599846722815">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="653" y="233" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1595511322620" />
-    <state x="673" y="422" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1588180256261">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="673" y="422" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1680.1050/-129.-1080.1920.1080@0.0.1680.1050" timestamp="1588180256261" />
+    <state x="653" y="233" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1599846722815" />
     <state x="528" y="268" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1595225742127">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -267,78 +298,74 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="470" y="456" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1680.1050/-129.-1080.1920.1080@0.0.1680.1050" timestamp="1591650347101" />
-    <state x="625" y="3" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1594823167680">
+    <state x="625" y="3" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1598181817640">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="625" y="3" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1594823167680" />
-    <state x="706" y="242" width="694" height="565" key="#xdebugger.evaluate" timestamp="1595341802501">
+    <state x="625" y="3" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1598181817640" />
+    <state x="822" y="228" width="694" height="565" key="#xdebugger.evaluate" timestamp="1599936574977">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="706" y="242" width="694" height="565" key="#xdebugger.evaluate/0.0.1680.1050@0.0.1680.1050" timestamp="1595341802501" />
-    <state width="1638" height="198" key="GridCell.Tab.0.bottom" timestamp="1596177477657">
+    <state x="822" y="228" width="694" height="565" key="#xdebugger.evaluate/0.0.1680.1050@0.0.1680.1050" timestamp="1599936574977" />
+    <state width="452" height="466" key="DebuggerActiveHint" timestamp="1599936523362">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1878" height="241" key="GridCell.Tab.0.bottom/0.0.1680.1050/-129.-1080.1920.1080@-129.-1080.1920.1080" timestamp="1589472040597" />
+    <state width="452" height="466" key="DebuggerActiveHint/0.0.1680.1050@0.0.1680.1050" timestamp="1599936523362" />
+    <state width="1638" height="229" key="GridCell.Tab.0.bottom" timestamp="1599937889881">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
     <state width="1638" height="136" key="GridCell.Tab.0.bottom/0.0.1680.1050/-129.-1080.1920.1080@0.0.1680.1050" timestamp="1591653243604" />
-    <state width="1638" height="198" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1596177477657" />
+    <state width="1638" height="229" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1599937889881" />
+    <state width="1638" height="347" key="GridCell.Tab.0.bottom/46.23.1634.1027@46.23.1634.1027" timestamp="1597233458673" />
     <state width="1638" height="136" key="GridCell.Tab.0.bottom/51.23.1629.1027@51.23.1629.1027" timestamp="1595221619182" />
-    <state width="1638" height="198" key="GridCell.Tab.0.center" timestamp="1596177477655">
+    <state width="1638" height="229" key="GridCell.Tab.0.center" timestamp="1599937889879">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1878" height="241" key="GridCell.Tab.0.center/0.0.1680.1050/-129.-1080.1920.1080@-129.-1080.1920.1080" timestamp="1589472040595" />
     <state width="1638" height="136" key="GridCell.Tab.0.center/0.0.1680.1050/-129.-1080.1920.1080@0.0.1680.1050" timestamp="1591653243602" />
-    <state width="1638" height="198" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1596177477655" />
+    <state width="1638" height="229" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1599937889879" />
+    <state width="1638" height="347" key="GridCell.Tab.0.center/46.23.1634.1027@46.23.1634.1027" timestamp="1597233458671" />
     <state width="1638" height="136" key="GridCell.Tab.0.center/51.23.1629.1027@51.23.1629.1027" timestamp="1595221619181" />
-    <state width="1638" height="198" key="GridCell.Tab.0.left" timestamp="1596177477654">
+    <state width="1638" height="229" key="GridCell.Tab.0.left" timestamp="1599937889877">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1878" height="241" key="GridCell.Tab.0.left/0.0.1680.1050/-129.-1080.1920.1080@-129.-1080.1920.1080" timestamp="1589472040593" />
     <state width="1638" height="136" key="GridCell.Tab.0.left/0.0.1680.1050/-129.-1080.1920.1080@0.0.1680.1050" timestamp="1591653243601" />
-    <state width="1638" height="198" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1596177477654" />
+    <state width="1638" height="229" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1599937889877" />
+    <state width="1638" height="347" key="GridCell.Tab.0.left/46.23.1634.1027@46.23.1634.1027" timestamp="1597233458668" />
     <state width="1638" height="136" key="GridCell.Tab.0.left/51.23.1629.1027@51.23.1629.1027" timestamp="1595221619180" />
-    <state width="1638" height="198" key="GridCell.Tab.0.right" timestamp="1596177477656">
+    <state width="1638" height="229" key="GridCell.Tab.0.right" timestamp="1599937889880">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1878" height="241" key="GridCell.Tab.0.right/0.0.1680.1050/-129.-1080.1920.1080@-129.-1080.1920.1080" timestamp="1589472040596" />
     <state width="1638" height="136" key="GridCell.Tab.0.right/0.0.1680.1050/-129.-1080.1920.1080@0.0.1680.1050" timestamp="1591653243603" />
-    <state width="1638" height="198" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1596177477656" />
+    <state width="1638" height="229" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1599937889880" />
+    <state width="1638" height="347" key="GridCell.Tab.0.right/46.23.1634.1027@46.23.1634.1027" timestamp="1597233458672" />
     <state width="1638" height="136" key="GridCell.Tab.0.right/51.23.1629.1027@51.23.1629.1027" timestamp="1595221619182" />
-    <state width="1638" height="136" key="GridCell.Tab.1.bottom" timestamp="1595414199693">
+    <state width="1638" height="142" key="GridCell.Tab.1.bottom" timestamp="1599936592925">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1878" height="290" key="GridCell.Tab.1.bottom/0.0.1680.1050/-129.-1080.1920.1080@-129.-1080.1920.1080" timestamp="1589472040583" />
     <state width="1638" height="136" key="GridCell.Tab.1.bottom/0.0.1680.1050/-129.-1080.1920.1080@0.0.1680.1050" timestamp="1591653243607" />
-    <state width="1638" height="136" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1595414199693" />
+    <state width="1638" height="142" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1599936592925" />
     <state width="1638" height="136" key="GridCell.Tab.1.bottom/51.23.1629.1027@51.23.1629.1027" timestamp="1595221619184" />
-    <state width="1638" height="136" key="GridCell.Tab.1.center" timestamp="1595414199691">
+    <state width="1638" height="142" key="GridCell.Tab.1.center" timestamp="1599936592922">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1878" height="290" key="GridCell.Tab.1.center/0.0.1680.1050/-129.-1080.1920.1080@-129.-1080.1920.1080" timestamp="1589472040580" />
     <state width="1638" height="136" key="GridCell.Tab.1.center/0.0.1680.1050/-129.-1080.1920.1080@0.0.1680.1050" timestamp="1591653243606" />
-    <state width="1638" height="136" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1595414199691" />
+    <state width="1638" height="142" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1599936592922" />
     <state width="1638" height="136" key="GridCell.Tab.1.center/51.23.1629.1027@51.23.1629.1027" timestamp="1595221619183" />
-    <state width="1638" height="136" key="GridCell.Tab.1.left" timestamp="1595414199689">
+    <state width="1638" height="142" key="GridCell.Tab.1.left" timestamp="1599936592921">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1878" height="290" key="GridCell.Tab.1.left/0.0.1680.1050/-129.-1080.1920.1080@-129.-1080.1920.1080" timestamp="1589472040578" />
     <state width="1638" height="136" key="GridCell.Tab.1.left/0.0.1680.1050/-129.-1080.1920.1080@0.0.1680.1050" timestamp="1591653243605" />
-    <state width="1638" height="136" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1595414199689" />
+    <state width="1638" height="142" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1599936592921" />
     <state width="1638" height="136" key="GridCell.Tab.1.left/51.23.1629.1027@51.23.1629.1027" timestamp="1595221619183" />
-    <state width="1638" height="136" key="GridCell.Tab.1.right" timestamp="1595414199692">
+    <state width="1638" height="142" key="GridCell.Tab.1.right" timestamp="1599936592923">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1878" height="290" key="GridCell.Tab.1.right/0.0.1680.1050/-129.-1080.1920.1080@-129.-1080.1920.1080" timestamp="1589472040581" />
     <state width="1638" height="136" key="GridCell.Tab.1.right/0.0.1680.1050/-129.-1080.1920.1080@0.0.1680.1050" timestamp="1591653243606" />
-    <state width="1638" height="136" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1595414199692" />
+    <state width="1638" height="142" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1599936592923" />
     <state width="1638" height="136" key="GridCell.Tab.1.right/51.23.1629.1027@51.23.1629.1027" timestamp="1595221619184" />
-    <state x="341" y="164" key="SettingsEditor" timestamp="1592675444221">
+    <state x="341" y="164" key="SettingsEditor" timestamp="1597241788117">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1592675444221" />
-    <state x="549" y="-651" key="com.intellij.ide.util.TipDialog" timestamp="1588926859270">
-      <screen x="-129" y="-1080" width="1920" height="1080" />
-    </state>
-    <state x="549" y="-651" key="com.intellij.ide.util.TipDialog/0.0.1680.1050/-129.-1080.1920.1080@-129.-1080.1920.1080" timestamp="1588926859270" />
+    <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1597241788117" />
     <state x="132" y="216" width="1480" height="850" maximized="true" key="dock-window-1" timestamp="1594824005564">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -354,12 +381,12 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Algo/recursion/ZigZagTraversalString.java</url>
-          <line>44</line>
+          <line>46</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Algo/recursion/ZigZagTraversalString.java</url>
-          <line>48</line>
+          <line>50</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -373,8 +400,8 @@
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Algo/recursion/APMissingNum.java</url>
-          <line>9</line>
+          <url>file://$PROJECT_DIR$/src/main/java/Algo/APMissingNum.java</url>
+          <line>12</line>
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -408,21 +435,6 @@
           <option name="timeStamp" value="30" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Algo/ProductOfArrayExceptSelf.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="34" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Algo/ProductOfArrayExceptSelf.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="35" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Algo/ProductOfArrayExceptSelf.java</url>
-          <line>30</line>
-          <option name="timeStamp" value="36" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/TestRegex.java</url>
           <line>11</line>
           <option name="timeStamp" value="37" />
@@ -438,37 +450,22 @@
           <option name="timeStamp" value="39" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Algo/recursion/ProductOfArrayExceptSelf.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="40" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Algo/recursion/ProductOfArrayExceptSelf.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="41" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Algo/recursion/ProductOfArrayExceptSelf.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="42" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Algo/recursion/InvalidParaentesiss.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Algo/recursion/CheckValidString.java</url>
           <line>34</line>
           <option name="timeStamp" value="43" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Algo/recursion/InvalidParaentesiss.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Algo/recursion/CheckValidString.java</url>
           <line>23</line>
           <option name="timeStamp" value="45" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Algo/recursion/InvalidParaentesiss.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Algo/recursion/CheckValidString.java</url>
           <line>22</line>
           <option name="timeStamp" value="48" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Algo/recursion/InvalidParaentesiss.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Algo/recursion/CheckValidString.java</url>
           <line>11</line>
           <option name="timeStamp" value="49" />
         </line-breakpoint>
@@ -558,9 +555,39 @@
           <option name="timeStamp" value="69" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Algo/recursion/Palindrome.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="70" />
+          <url>file://$PROJECT_DIR$/src/main/java/Array/SortCharByFrequency.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Array/SortCharByFrequency.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/demo/TestJavaCollection5.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/demo/TestJavaCollection5.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DS/Queue/GetMaxNumberInSlidingWindow.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DS/Queue/GetMaxNumberInSlidingWindow.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DS/Queue/GetMaxNumberInSlidingWindow.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="84" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

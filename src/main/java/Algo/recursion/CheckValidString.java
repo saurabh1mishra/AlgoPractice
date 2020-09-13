@@ -2,7 +2,7 @@ package Algo.recursion;
 
 import java.util.Stack;
 
-public class InvalidParaentesiss {
+public class CheckValidString {
 
     public static boolean checkValidString(String s) {
         Stack stack = new Stack();

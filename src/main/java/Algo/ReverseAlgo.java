@@ -2,22 +2,19 @@ package Algo;
 
 // Java program for reversal algorithm of array rotation
 
-import java.io.*;
-
 class ReverseAlgo {
     /* Function to left rotate arr[] of size n by d */
     static void leftRotate(int arr[], int d) {
-
         if (d == 0)
             return;
         int n = arr.length;
-        rvereseArray(arr, 0, d - 1);
-        rvereseArray(arr, d, n - 1);
-        rvereseArray(arr, 0, n - 1);
+        reverseArray(arr, 0, d - 1);
+        reverseArray(arr, d, n - 1);
+        reverseArray(arr, 0, n - 1);
     }
 
     /*Function to reverse arr[] from index start to end*/
-    static void rvereseArray(int arr[], int start, int end) {
+    static void reverseArray(int arr[], int start, int end) {
         int temp;
         while (start < end) {
             temp = arr[start];
