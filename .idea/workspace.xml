@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38f72e67-3fc8-434b-85a7-3760d350fa6d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DS/Queue/PriortyQueueTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algo/APMissingNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algo/APMissingNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algo/CommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algo/CommonPrefix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algo/ReverseAlgo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algo/ReverseAlgo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algo/recursion/InvalidParaentesiss.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algo/recursion/CheckValidString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/HasHmap/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HasHmap/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TestRegex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TestRegex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JsonPathTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JsonPathTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -278,7 +269,7 @@
       <workItem from="1598614377749" duration="9125000" />
       <workItem from="1599476982414" duration="2970000" />
       <workItem from="1599733468671" duration="13000" />
-      <workItem from="1599743953087" duration="12185000" />
+      <workItem from="1599743953087" duration="14682000" />
     </task>
     <servers />
   </component>
@@ -286,6 +277,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599982983924">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1599982983924" />
     <state x="653" y="233" key="#com.intellij.ide.util.MemberChooser" timestamp="1599846722815">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -565,16 +560,6 @@
           <option name="timeStamp" value="73" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/demo/TestJavaCollection5.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="78" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/demo/TestJavaCollection5.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="79" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/DS/Queue/GetMaxNumberInSlidingWindow.java</url>
           <line>17</line>
           <option name="timeStamp" value="82" />
@@ -588,6 +573,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/DS/Queue/GetMaxNumberInSlidingWindow.java</url>
           <line>19</line>
           <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DS/HashMap/MyHashmap.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="85" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
