@@ -1,6 +1,6 @@
 package Algo;
 
-public class leetcodeSingleElementinaSortedArray {
+public class LeetCodeSingleElementInSortedArray {
     public static int singleNonDuplicate(int[] nums) {
         if (nums.length == 0)
             return -1;

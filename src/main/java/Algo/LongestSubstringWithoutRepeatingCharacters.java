@@ -6,10 +6,10 @@ import java.util.Set;
 public class LongestSubstringWithoutRepeatingCharacters {
 
     /**
-     * 2 pointer approch
+     * 2 pointer approach
      * https://leetcode.com/problems/longest-substring-without-repeating-characters/
      * @param s
-     * @return
+     * @return int with max size
      */
     public int lengthOfLongestSubstring(String s) {
 
