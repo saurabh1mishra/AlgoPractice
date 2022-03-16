@@ -2,11 +2,9 @@ package demo;
 
 public class Tsystem {
     public static void main(String[] args) {
-        Integer val =50 ; Integer val2= 50;
-        if(val==val2){
-            System.out.println("same");
-        }else{
-            System.out.println("not same");
-        }
+        Integer val =1000 , val2= 1000;
+        System.out.println(val.equals(val2));
+        Integer val3 =20 , val4= 20;
+        System.out.println(val3==val4);
     }
 }
