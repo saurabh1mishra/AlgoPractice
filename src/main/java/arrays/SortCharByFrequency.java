@@ -23,6 +23,6 @@ public class SortCharByFrequency {
 
     public static void main(String[] args) {
         SortCharByFrequency scByFreqObj = new SortCharByFrequency();
-        System.out.println(scByFreqObj.frequencySort("tree"));
+        System.out.println(scByFreqObj.frequencySort("trrree"));
     }
 }
