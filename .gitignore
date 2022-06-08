@@ -1,10 +1,7 @@
-target/**
-.idea/**
-.project
-.classpath
-.idea
-.settings
-.vscode
 target
 .idea
+.project
+.classpath
+.settings
+.vscode
 

@@ -44,7 +44,7 @@ public class Employee {
     @Override
     public int hashCode() {
         int result = 17;
-        result = 37 * result + name.hashCode();
+        //result = 37 * result + name.hashCode();
         result = 37 * result + age;
         return result;
     }
@@ -60,6 +60,6 @@ public class Employee {
         System.out.println(m.get(e));
         //e.name = "amirrana";
         // it fails again
-        //  System.out.println(m.get(new Employee("muhammad", 24)));
+        System.out.println(m.get(new Employee("muhammad", 24)));
     }
 }

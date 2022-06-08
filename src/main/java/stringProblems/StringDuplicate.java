@@ -3,7 +3,7 @@ package stringProblems;
 import java.util.*;
 
 /*
-Remove the duplicates, count of duplicates and reverse teh string
+Remove the duplicates, count of duplicates and reverse the string
  */
 public class StringDuplicate {
 
@@ -27,18 +27,13 @@ public class StringDuplicate {
                 duplicate.add(entry.getKey());
             }
         }
-        String dupString = getString(duplicate);
-        System.out.println(dupString);
 
-        //remove the dulpicates
+        System.out.println(getString(duplicate));
 
+        //remove the duplicates
         List<String> strAsList = new ArrayList<>(Arrays.asList(strArr));
         strAsList.removeAll(duplicate);
-        String removeDup = "";
-        for (String s : strAsList) {
-            removeDup += " " + s;
-        }
-        System.out.println(removeDup);
+        System.out.println(getString(strAsList));
 
         //reverse the string
         StringBuilder reverse = new StringBuilder();
@@ -47,7 +42,6 @@ public class StringDuplicate {
         }
 
         System.out.println(reverse);
-
     }
 
     private static String getString(List<String> duplicate) {

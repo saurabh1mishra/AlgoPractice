@@ -1,9 +1,9 @@
-package demo;
+package hashMap;
 
 import java.util.HashMap;
 import java.util.Map;
 
-public class ObjectTest {
+public class HashMapObjectTest {
     static class Emp {
         String name;
         String test;
@@ -19,10 +19,13 @@ public class ObjectTest {
 
     public static void main(String[] args) {
         Emp emp = new Emp();
+        emp.name = "saurabh";
+        emp.test = "1";
         Map<String, Object> map = new HashMap<>();
-        map.put("test", "test");
+        map.put("test", emp);
         Object t = map.get("test");
-        System.out.println(emp);
+        emp.name = "changed";
+        System.out.println(t);
 
     }
 }

@@ -9,13 +9,12 @@ public class StringReverse {
 
     static String rev(String input) {
         String[] str = input.split("");
-
         int left = 0;
         int right = input.length() - 1;
 
         while (left < right) {
-            if (StringReverse.isSString(str[left])) {
-                if (StringReverse.isSString(str[right])) {
+            if (StringReverse.isString(str[left])) {
+                if (StringReverse.isString(str[right])) {
                     swap(str, left, right);
                 }
                 right = right - 1;
@@ -33,7 +32,7 @@ public class StringReverse {
 
     }
 
-    static boolean isSString(String str) {
+    static boolean isString(String str) {
         return str.matches("\\w");
     }
 
