@@ -19,7 +19,7 @@ public class CommonPrefix {
             Arrays.sort(arr);
             int length = arr[0].length();
             StringBuilder res = new StringBuilder();
-            // Comapre the first and the last strings character
+            // Compare the first and the last strings character
             // by character.
             for (int i = 0; i < length; i++) {
                 // If the characters match, append the character to the result.

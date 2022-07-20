@@ -18,6 +18,7 @@ public class SortCharByFrequency {
             for (int i = 0; i < map.get(ch); i++)
                 sb.append(ch);
         }
+
         return sb.toString();
     }
 
