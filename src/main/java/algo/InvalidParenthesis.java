@@ -1,13 +1,36 @@
-package algo.recursion;
+package algo;
 
 import java.util.Stack;
 
+/**
+ * https://leetcode.com/problems/valid-parentheses/
+ *
+ * Example 1:
+ *
+ * Input: s = "()"
+ * Output: true
+ * Example 2:
+ *
+ * Input: s = "()[]{}"
+ * Output: true
+ * Example 3:
+ *
+ * Input: s = "(]"
+ * Output: false
+ */
 public class InvalidParenthesis {
 
     public boolean isValid(String s) {
         Stack<Character> stack = new Stack<>();
         for(int i = 0; i <s.length() ; i++){
-            if(s.charAt(i)==')' && stack.peek()=='('){
+            if(s.length() == 1)
+                return false;
+            if (s.startsWith(")") || s.startsWith("}") ||s.startsWith("]") )
+                return false;
+            if (stack.empty() ){
+                stack.push(s.charAt(i));
+            }
+            else if(s.charAt(i)==')' && stack.peek()=='('){
                 stack.pop();
             }
             else if(s.charAt(i)=='}' && stack.peek()=='{'){

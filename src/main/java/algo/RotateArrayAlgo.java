@@ -14,7 +14,7 @@ class RotateArrayAlgo {
     }
 
     /*Function to reverse arr[] from index start to end*/
-    static void reverseArray(int arr[], int start, int end) {
+    static void reverseArray(int[] arr, int start, int end) {
         int temp;
         while (start < end) {
             temp = arr[start];

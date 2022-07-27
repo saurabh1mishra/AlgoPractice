@@ -8,6 +8,7 @@ public class LongestSubstringWithoutRepeatingCharacters {
     /**
      * 2 pointer approach
      * https://leetcode.com/problems/longest-substring-without-repeating-characters/
+     * https://www.interviewbit.com/blog/longest-substring-without-repeating-characters/
      * @param s
      * @return int with max size
      */
