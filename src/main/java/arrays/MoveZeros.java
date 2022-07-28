@@ -1,9 +1,8 @@
 package arrays;
 
 /**
- *
  * https://leetcode.com/problems/move-zeroes/
- *
+ * <p>
  * Input: nums = [0,1,0,3,12]
  * Output: [1,3,12,0,0]
  */
@@ -18,6 +17,7 @@ public class MoveZeros {
                 ptr++;
             }
         }
+        
         for (int j = ptr; j < nums.length; j++) {
             nums[j] = 0;
         }
