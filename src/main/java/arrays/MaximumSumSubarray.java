@@ -7,7 +7,7 @@ package arrays;
  * Output: 6
  * Explanation: [4,-1,2,1] has the largest sum = 6.
  */
-public class maximumSumSubarray {
+public class MaximumSumSubarray {
 
     public int maxSubArray(int[] nums) {
         int max_sum = nums[0];
