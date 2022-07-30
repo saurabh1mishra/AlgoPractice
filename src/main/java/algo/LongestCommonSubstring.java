@@ -8,7 +8,7 @@ package algo;
 public class LongestCommonSubstring {
 
 
-    public int longestCommonSubsequence(String text1, String text2) {
+    public int longestCommonSubString(String text1, String text2) {
         int m = text1.length();
         int n = text2.length();
         int maxLen = 0;

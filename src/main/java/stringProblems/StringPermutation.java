@@ -1,5 +1,11 @@
 package stringProblems;
 
+
+/**
+ * backtarking
+ * <p>
+ * https://www.interviewbit.com/blog/permutations-of-the-given-string/
+ */
 public class StringPermutation {
 
     public static void permutation(String str, int left, int right) {
@@ -10,7 +16,6 @@ public class StringPermutation {
                 str = swapString(str, left, i);
                 permutation(str, left + 1, right);
                 str = swapString(str, left, i);
-
             }
         }
     }

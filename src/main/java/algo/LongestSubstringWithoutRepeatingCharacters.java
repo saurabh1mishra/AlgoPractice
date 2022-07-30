@@ -9,10 +9,11 @@ public class LongestSubstringWithoutRepeatingCharacters {
      * 2 pointer approach
      * https://leetcode.com/problems/longest-substring-without-repeating-characters/
      * https://www.interviewbit.com/blog/longest-substring-without-repeating-characters/
+     *
      * @param s
      * @return int with max size
      */
-    public int lengthOfLongestSubstring(String s) {
+    public static int lengthOfLongestSubstring(String s) {
 
         int a_pointer = 0;
         int b_pointer = 0;
@@ -29,5 +30,10 @@ public class LongestSubstringWithoutRepeatingCharacters {
             }
         }
         return max;
+    }
+
+    public static void main(String[] args) {
+        String str = "abcabcbb";
+        System.out.println(lengthOfLongestSubstring(str));
     }
 }

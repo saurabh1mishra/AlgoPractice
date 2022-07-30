@@ -8,6 +8,7 @@ package arrays;
  */
 public class MoveZeros {
 
+    //two pointer approch
     public void moveZeroes(int[] nums) {
 
         int ptr = 0;
@@ -17,7 +18,7 @@ public class MoveZeros {
                 ptr++;
             }
         }
-        
+
         for (int j = ptr; j < nums.length; j++) {
             nums[j] = 0;
         }

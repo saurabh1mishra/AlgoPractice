@@ -8,6 +8,7 @@ public class CheckPrimeNumber {
                 return false;
             }
         }
+
         return true;
     }
 }
