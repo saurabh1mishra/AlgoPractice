@@ -7,7 +7,8 @@ import java.util.List;
 
 
 /***
- Find the largest series present in an array. Examples:   
+ Find the largest series present in an array.
+ Examples:
  Input :
  arr[] = {1, 2, -3, 2, 3, 4, -6, 1, 2, 3, 4, 5, -8, 5, 6}
  Output :Index : 7, length : 5
@@ -26,8 +27,8 @@ class LargestSeries {
         List<Integer> series = new ArrayList<>();
 
         for (int i = 0; i < arr.length; i++) {
-            if (arr[i] > 0) {
-                series.add(arr[i]);
+           if (arr[i] > 0) {
+               //series.add(arr[i]);
                 break;
             }
             throw new Error("no postive number found.");
@@ -55,7 +56,7 @@ class LargestSeries {
 
         int arr[] = new int[]{1, 2, -3, 2, 3, 4, -6, 1, 2, 3, 4, 5, -8, 5, 6};
         int arr2[] = new int[]{-3, -6, -1, -3, -8};
-        int[] result = findLargestArray(arr2);
+        int[] result = findLargestArray(arr);
         System.out.println(Arrays.toString(result));
     }
 }

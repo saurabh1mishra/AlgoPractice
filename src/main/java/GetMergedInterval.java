@@ -14,6 +14,9 @@ import java.util.*;
  * 14 18
  */
 
+/**
+ * https://www.youtube.com/watch?v=qKczfGUrFY4&t=96s
+ */
 
 class GetMergedInterval {
 
@@ -62,6 +65,54 @@ class GetMergedInterval {
         return result;
     }
 
+    public int[][] merge_usingLinkList(int[][] intervals) {
+        Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0]));
+        LinkedList<int[]> merged = new LinkedList<>();
+        for (int[] interval : intervals) {
+            if (merged.isEmpty() || merged.getLast()[1] < interval[0]) {
+                merged.add(interval);
+            } else {
+                merged.getLast()[1] = Math.max(merged.getLast()[1], interval[1]);
+            }
+        }
+        return merged.toArray(new int[merged.size()][]);
+    }
+
+    public int[][] merge2(int[][] intervals) {
+        List<int[]> ans = new ArrayList<>();
+        Arrays.sort(intervals, (arr1, arr2) -> Integer.compare(arr1[0], arr2[0]));
+        for (int[] interval : intervals)
+            if (ans.isEmpty() || ans.get(ans.size() - 1)[1] < interval[0]) ans.add(interval);
+            else ans.get(ans.size() - 1)[1] = Math.max(ans.get(ans.size() - 1)[1], interval[1]);
+        return ans.toArray(new int[ans.size()][]);
+    }
+
+    public int[][] merge_interVal(int[][] intervals) {
+        if (intervals.length <= 1) {
+            return intervals;
+        }
+        Arrays.sort(intervals, (arr1, arr2) -> Integer.compare(arr1[0], arr2[0]));
+        List<int[]> output_arr = new ArrayList<>();
+        int[] current_interval = intervals[0];
+        output_arr.add(current_interval);
+
+        for (int[] interval : intervals) {
+            int cur_begin = current_interval[0];
+            int cur_end = current_interval[0];
+            int next_begin = interval[0];
+            int next_end = interval[1];
+
+            if (cur_end > next_begin) {
+                current_interval[1] = Math.max(cur_end, next_end);
+            } else {
+                current_interval = interval;
+                output_arr.add(current_interval);
+            }
+        }
+
+        return output_arr.toArray(new int[output_arr.size()][]);
+    }
+
 
     public static void main(String[] args) throws IOException {
         List<List<Integer>> input = new ArrayList<>();
@@ -90,6 +141,7 @@ class GetMergedInterval {
         list5.add(14);
         list5.add(18);
         input.add(list5);
+
 
         System.out.println(GetMergedInterval.getMergedIntervals(input));
     }

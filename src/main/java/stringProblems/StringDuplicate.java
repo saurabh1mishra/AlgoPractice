@@ -20,9 +20,8 @@ public class StringDuplicate {
             }
         }
 
-        Set<Map.Entry<String, Integer>> entrySet = accrace.entrySet();
         List<String> duplicate = new ArrayList<String>();
-        for (Map.Entry<String, Integer> entry : entrySet) {
+        for (Map.Entry<String, Integer> entry : accrace.entrySet()) {
             if (entry.getValue() > 1) {
                 duplicate.add(entry.getKey());
             }
