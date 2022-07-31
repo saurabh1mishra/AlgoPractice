@@ -9,7 +9,7 @@ public class LinkedList<T> {
         if (head == null) {
             head = node;
         } else {
-            Node n = head;
+            Node<T> n = head;
             while (n.next != null) {
                 n = n.next;
             }
@@ -18,7 +18,7 @@ public class LinkedList<T> {
     }
 
     public void show() {
-        Node n = head;
+        Node<T> n = head;
         while (n.next != null) {
             System.out.println(n.value);
             n = n.next;
