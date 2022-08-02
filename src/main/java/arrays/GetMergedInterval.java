@@ -1,3 +1,5 @@
+package arrays;
+
 import java.io.*;
 import java.util.*;
 
@@ -91,6 +93,7 @@ class GetMergedInterval {
         if (intervals.length <= 1) {
             return intervals;
         }
+
         Arrays.sort(intervals, (arr1, arr2) -> Integer.compare(arr1[0], arr2[0]));
         List<int[]> output_arr = new ArrayList<>();
         int[] current_interval = intervals[0];

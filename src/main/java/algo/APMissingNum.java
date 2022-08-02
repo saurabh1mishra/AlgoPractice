@@ -9,7 +9,7 @@ public class APMissingNum {
         int[] arr = {2, 6, 14};
         int size = arr.length;
         int missingNum = 0;
-        Set List = new HashSet();
+        Set List = new HashSet<>();
         int diff = (arr[size - 1] - arr[0]) / (size);
         for (int i = 0; i < size - 1; i++) {
             int nextNum = arr[i] + diff;

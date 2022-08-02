@@ -37,6 +37,7 @@ public class InvalidParenthesis {
                 stack.push(s.charAt(i));
             }
         }
+
         return stack.empty();
     }
 }
