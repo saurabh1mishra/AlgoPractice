@@ -101,7 +101,7 @@ class GetMergedInterval {
 
         for (int[] interval : intervals) {
             int cur_begin = current_interval[0];
-            int cur_end = current_interval[0];
+            int cur_end = current_interval[1];
             int next_begin = interval[0];
             int next_end = interval[1];
 

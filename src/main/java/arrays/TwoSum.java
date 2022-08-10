@@ -25,18 +25,18 @@ public class TwoSum {
         return result;
     }
 
-    public int[] twoSum2(int[] nums, int target) {
+    public int[] twoSum2(int[] numbs, int target) {
         Map<Integer, Integer> indexMap = new HashMap<Integer, Integer>();
         int[] result = new int[2];
-        for (int i = 0; i < nums.length; i++) {
-            Integer requiredNum = (Integer) (target - nums[i]);
+        for (int i = 0; i < numbs.length; i++) {
+            Integer requiredNum = (Integer) (target - numbs[i]);
             if (indexMap.containsKey(requiredNum)) {
                 result[0] = indexMap.get(requiredNum);
                 result[1] = i;
                 break;
             }
 
-            indexMap.put(nums[i], i);
+            indexMap.put(numbs[i], i);
         }
         return result;
     }

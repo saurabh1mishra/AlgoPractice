@@ -1,4 +1,4 @@
-package algo;
+package arrays;
 
 // Java program for reversal algorithm of array rotation
 
@@ -27,20 +27,18 @@ class RotateArrayAlgo {
 
     /*UTILITY FUNCTIONS*/
     /* function to print an array */
-    static void printArray(int arr[]) {
-        for (int i = 0; i < arr.length; i++)
-            System.out.print(arr[i] + " ");
+    static void printArray(int[] arr) {
+        for (int j : arr) System.out.print(j + " ");
     }
 
     /* Driver program to test above functions */
     public static void main(String[] args) {
-        int arr[] = {1, 2, 3, 4, 5, 6, 7};
+        int[] arr = {1, 2, 3, 4, 5, 6, 7};
         int n = arr.length;
         int d = 2;
 
         // in case the rotating factor is
         // greater than array length
-        d = d % n;
         leftRotate(arr, d); // Rotate array by d
         printArray(arr);
     }
