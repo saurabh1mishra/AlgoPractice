@@ -6,7 +6,6 @@ public class PrintPattern {
     public static void printAsc(int lines) {
 
         for (int i = 0; i < lines; i++) {
-
             for (int j = 0; j <= i; j++) {
                 System.out.print("* ");
             }
