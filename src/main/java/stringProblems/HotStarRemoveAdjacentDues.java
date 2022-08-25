@@ -17,11 +17,9 @@ public class HotStarRemoveAdjacentDues {
         }
 
         for (int i = 1; i < str.length() - 1; i++) {
-            if (str.charAt(i - 1) == str.charAt(i) || str.charAt(i + 1) == str.charAt(i)) {
-            } else {
+            if (str.charAt(i - 1) != str.charAt(i) && str.charAt(i + 1) != str.charAt(i)) {
                 res.append(str.charAt(i));
             }
-
         }
 
         if (str.charAt(str.length() - 1) != str.charAt(str.length() - 2)) {
@@ -32,7 +30,7 @@ public class HotStarRemoveAdjacentDues {
     }
 
     public static void main(String[] args) {
-        String in = "acaaabbbacdddd";
+        String in = "acaaabbbacddddee";
         System.out.println(solution(in));
     }
 }

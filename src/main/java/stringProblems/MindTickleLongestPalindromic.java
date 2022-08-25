@@ -61,7 +61,7 @@ public class MindTickleLongestPalindromic {
 
 
         int finalMax = max;
-        result.stream().filter(i -> (i.length() == finalMax)).forEach(System.out::println);
+        result.stream().distinct().filter(i -> (i.length() == finalMax)).forEach(System.out::println);
     }
 
     public static void main(String[] args) {
