@@ -1,6 +1,31 @@
 package stringProblems;
 
 public class StringCompress {
+
+
+    public static String compressString(String str) {
+        StringBuilder compressed = new StringBuilder();
+        int n = str.length();
+
+        for (int i = 0; i < n; i++) {
+            int count = 1;
+
+            // Count consecutive duplicates
+            while (i < n - 1 && str.charAt(i) == str.charAt(i + 1)) {
+                count++;
+                i++;
+            }
+
+            // Append character and count (if >1)
+            compressed.append(str.charAt(i));
+            if (count > 1) {
+                compressed.append(count);
+            }
+        }
+
+        return compressed.toString();
+    }
+
     public static String solution(String input) {
         StringBuilder output = new StringBuilder();
         int count = 1;
@@ -23,6 +48,6 @@ public class StringCompress {
 
     public static void main(String[] args) {
         String input = "AAADBBBBCCE";
-        System.out.println(solution(input));
+        System.out.println(compressString(input));
     }
 }

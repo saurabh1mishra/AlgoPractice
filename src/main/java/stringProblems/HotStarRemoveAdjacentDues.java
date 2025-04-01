@@ -1,11 +1,35 @@
 package stringProblems;
 
+import java.util.Stack;
+
 /**
  * acaaabbbacdddd
  * <p>
  * acac
  */
 public class HotStarRemoveAdjacentDues {
+
+
+    public static String removeAdjacentDuplicates(String str) {
+        Stack<Character> stack = new Stack<>();
+
+        for (char ch : str.toCharArray()) {
+            if (!stack.isEmpty() && stack.peek() == ch) {
+                stack.pop();  // Remove adjacent duplicate
+            } else {
+                stack.push(ch);
+            }
+        }
+
+        // Convert stack to string
+        StringBuilder result = new StringBuilder();
+        for (char ch : stack) {
+            result.append(ch);
+        }
+
+        return result.toString();
+    }
+
 
     public static String solution(String str) {
 
