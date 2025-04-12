@@ -35,9 +35,13 @@ public class AirtelStringContains {
         return result;
     }
 
+    public static boolean solution2(String keyword, String string){
+        return string.indexOf(keyword) != -1;
+    }
+
     public static void main(String[] args) {
-        String str1 = "saurabh";
-        String str2 = "saurabh";
-        System.out.println(solution(str1, str2));
+        String keyword = "saurabh";
+        String string = "mynameissaurabhmishra";
+        System.out.println(solution2(keyword, string));
     }
 }

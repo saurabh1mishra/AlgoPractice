@@ -10,8 +10,7 @@ public class SortCharByFrequency {
         PriorityQueue<Character> queue = new PriorityQueue<>((x, y) -> map.get(y) - map.get(x));
         for (char ch : s.toCharArray())
             map.put(ch, map.getOrDefault(ch, 0) + 1);
-        for (char ch : map.keySet())
-            queue.offer(ch);
+        queue.addAll(map.keySet());
         StringBuilder sb = new StringBuilder();
         while (!queue.isEmpty()) {
             char ch = queue.poll();
@@ -24,6 +23,6 @@ public class SortCharByFrequency {
 
     public static void main(String[] args) {
         SortCharByFrequency scByFreqObj = new SortCharByFrequency();
-        System.out.println(scByFreqObj.frequencySort("trrree"));
+        System.out.println(scByFreqObj.frequencySort("trrraaaee"));
     }
 }

@@ -34,7 +34,7 @@ import java.util.Map;
 
 // Main class should be named 'Solution'
 class BankInterestSystem {
-/*
+
     enum BANK {
         HDFC, SBI, AXIS,
     }
@@ -46,13 +46,13 @@ class BankInterestSystem {
     static Map<BANK, Map<LOAN_TYPE, Double>> bankDetails = new HashMap<>();
 
     public static Float calculateEMI(BANK bankName, LOAN_TYPE loantype, Integer laonAmount, Integer tenure) {
-        Float IntrestInMonths = tenure * 12;
+        Float IntrestInMonths = (float) (tenure * 12);
 
-        Float rateOfInterset = BankInterestSystem.bankDetails.get(bankName).get(loantype);
+        Double rateOfInterset = BankInterestSystem.bankDetails.get(bankName).get(loantype);
 
-        Float monthlyRateOfInterset = rateOfInterset / 12;
+        Float monthlyRateOfInterset = (float) (rateOfInterset / 12);
 
-        //Float denominator = Integer.((1 + monthlyRateOfInterset), IntrestInMonths)
+        Float denominator = Float.valueOf((1 + monthlyRateOfInterset));
 
         return (laonAmount * monthlyRateOfInterset * denominator) / (denominator - 1);
     }
@@ -82,5 +82,5 @@ class BankInterestSystem {
         bankDetails.put(BANK.AXIS, axisLoanDetails);
 
         calculateEMI(BANK.HDFC, LOAN_TYPE.HOME, 5000000, 20);
-    }*/
+    }
 }

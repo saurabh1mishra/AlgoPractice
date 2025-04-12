@@ -22,13 +22,10 @@ public class HotStarCamleCase {
         for (String str : arrString) {
             char[] arr = str.toCharArray();
             for (int i = 1; i < arr.length; i++) {
-                if (arr[0] < ascaiiValueOfa) {
+                if (arr[0] < ascaiiValueOfa && (arr[i] < ascaiiValueOfa)) {
                     break;
                 }
-
-                if (arr[i] < ascaiiValueOfa) {
-                    result++;
-                }
+                result = Math.max(result, str.length());
             }
         }
 
@@ -36,7 +33,7 @@ public class HotStarCamleCase {
     }
 
     public static void main(String[] args) {
-        String input = "oneTwoThree  OneTWoThree @#$%oneTwoThree 1TwoThree; oneTwoThree oneTwoThree";
+        String input = "@#$%oneTwoThree 1TwoThree; oneTwoThree oneTwoThree oneTwoThree OneTWoThree";
         System.out.println(soltuion(input));
 
     }
