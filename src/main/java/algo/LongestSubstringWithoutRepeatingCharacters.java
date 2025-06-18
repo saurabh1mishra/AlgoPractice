@@ -10,7 +10,7 @@ public class LongestSubstringWithoutRepeatingCharacters {
      * https://leetcode.com/problems/longest-substring-without-repeating-characters/
      * https://www.interviewbit.com/blog/longest-substring-without-repeating-characters/
      *
-     * @param s
+     * @param
      * @return int with max size
      */
     public static int lengthOfLongestSubstring(String s) {

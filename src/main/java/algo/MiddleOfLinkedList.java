@@ -27,6 +27,7 @@ public class MiddleOfLinkedList {
             count++;
             node = node.next;
         }
+
         return count++;
     }
 }
