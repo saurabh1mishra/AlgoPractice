@@ -4,7 +4,9 @@ A collection of high-quality resources to prepare for Java development and techn
 
 ---
 ## 🔗 Useful Git repos
-[awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources?tab=readme-ov-file)
+[awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources?tab=readme-ov-file)  
+[awesome-behavioral-interviews](https://github.com/ashishps1/awesome-behavioral-interviews)  
+[awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)  
 
 ---
 
@@ -33,7 +35,8 @@ A collection of high-quality resources to prepare for Java development and techn
 ---
  ### Blogs
 
-  [how-i-mastered-data-structures-and-algorithms](https://blog.algomaster.io/p/how-i-mastered-data-structures-and-algorithms)
+  [how-i-mastered-data-structures-and-algorithms](https://blog.algomaster.io/p/how-i-mastered-data-structures-and-algorithms)  
+  
   [15-leetcode-patterns](https://blog.algomaster.io/p/15-leetcode-patterns)
   
 ## ✅ Recommended Usage
