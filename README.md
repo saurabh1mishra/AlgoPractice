@@ -28,10 +28,10 @@ A collection of high-quality resources to prepare for Java development and techn
 
 ---
  ### Blogs
- -- 
+
   [how-i-mastered-data-structures-and-algorithms](https://blog.algomaster.io/p/how-i-mastered-data-structures-and-algorithms)
- -- 
- [15-leetcode-patterns](https://blog.algomaster.io/p/15-leetcode-patterns)
+  [15-leetcode-patterns](https://blog.algomaster.io/p/15-leetcode-patterns)
+  
 ## ✅ Recommended Usage
 
 1. Start with the **Java Stream** and **Interview Questions** guides to refresh core concepts.
