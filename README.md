@@ -3,6 +3,10 @@
 A collection of high-quality resources to prepare for Java development and technical interviews.
 
 ---
+## 🔗 Useful Git repos
+[awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources?tab=readme-ov-file)
+
+---
 
 ## 🔗 Useful Links
 
